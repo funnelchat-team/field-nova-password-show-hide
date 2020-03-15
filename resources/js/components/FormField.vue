@@ -9,7 +9,7 @@
                    autocomplete="new-password"
             />
             <button type="button" class="ml-auto btn btn-default btn-primary mt-3" @click="switchVisibility(field.name)">
-                Show/Hide
+                Mostrar/Ocultar
             </button>
         </template>
     </default-field>
